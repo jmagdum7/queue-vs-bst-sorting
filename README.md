@@ -1,7 +1,6 @@
 # queue-vs-bst-sorting
 This mini-project has been completed as part of a Data Structures course objective. 
-Through this project, we aim to use Queue and Binary Search Tree data structures to understand two different approaches to sorting.  
-We analyze the working of both of these operations and also detail the time, space complexity and their performance in a variety of test cases.
+Through this project, we aim to use Queue and Binary Search Tree data structures to understand two different approaches to sorting. We analyze the working of both of these operations and also detail the time, space complexity and their performance in a variety of test cases.
 
 Explanation:
 
